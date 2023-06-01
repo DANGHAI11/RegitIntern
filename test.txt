@@ -1,1 +1,2 @@
+Sau câu lệnh Commit, thông tin mới chỉ được cập nhật lên Local Repository.
 Nhân danh siêu nhận gao sửa file này.
