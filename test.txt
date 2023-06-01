@@ -1,3 +1,12 @@
-thủ tục hành chính được xyz kết quả offline.
-la các chính sách đượfdiuwfiuwfewucdfds dfjbwdhfjdw dkjfhdwiuf abc thi từ tháng 9. what the fuck bro?
-safdskjfskjdfsakj
+<<<<<<< HEAD
+DDaay he laf hihsai sahdshadin hsdhsadhjsaj 
+la các chính sách được abc thi từ tháng 9.
+Teuahfjahj jhf kdhsjhks
+
+=======
+
+DDaay he laf hihsai sahdshadin hsdhsadhjsaj 
+la các chính sách được abc thi từ tháng 9.
+Teuahfjahj jhf kdhsjhks
+
+>>>>>>> 0281141857dfb4c694acf498194f93c1b48d9ae7
